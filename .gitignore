@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Some stuffs
+/src/toggle_temperature_input.js
+/document
+
+.test
